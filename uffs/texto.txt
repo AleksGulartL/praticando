@@ -1,0 +1,4 @@
+outro_texto.txt
+texto.txt
+texto1.txt
+trabalho
